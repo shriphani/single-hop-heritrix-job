@@ -189,7 +189,7 @@ http://example.example/example
          <value>.*(?i)(\.(txt|conf|pdf))$</value>
          <value>.*(?i)(\.(swf))$</value>
          <value>.*(?i)(\.(js|css))$</value>
-         <value>.*(?i)(\.(bmp|gif|jpe?g|png|svg|tiff?))$</value>
+         <value>.*(?i)(\.(bmp|gif|jpe?g|png|svg|tiff?|ico))$</value>
        </list>
       </property>
 </bean>
